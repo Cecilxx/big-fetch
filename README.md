@@ -1,11 +1,11 @@
 ## Big Fetch
 
-The big-fetch is a wrapper based on fetch and promise, adding abort and timeout functions
+The **big-fetch** is a wrapper based on fetch and promise, adding abort and timeout functions
 
 ### Features
 
-* [x] abort(): Set the current promise to reject
-* [x] timeout: Increase timeout for current request
+* [x] **abort()**: Set the current promise to rejected
+* [x] **timeout**: Increase timeout for current request
 
 ### Browser Support
 
