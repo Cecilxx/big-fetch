@@ -52,14 +52,12 @@ var request = bigFecth('flowers.jpg', options)
 
 request
   .then(data => {
-    // 请求成功回调
     console.log(data)
   })
   .catch(error => {
-    // 请求失败回调
     console.error(error)
   })
 
-// 手动取消请求
+// cancel
 request.abort()
 ```
