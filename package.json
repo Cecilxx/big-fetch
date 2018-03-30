@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Cecilxx/big-fetch.git"
   },
-  "keywords": ["fetch", "promise", "cancel", "abort"],
+  "keywords": ["fetch", "cancel", "abort", "timeout", "ajax", "promise"],
   "author": "Cecilxx",
   "license": "ISC",
   "dependencies": {}
