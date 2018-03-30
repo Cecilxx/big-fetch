@@ -61,3 +61,7 @@ request
 // cancel
 request.abort()
 ```
+
+### Issues
+
+Welcome to issues and discuss
