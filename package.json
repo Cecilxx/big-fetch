@@ -1,17 +1,13 @@
 {
   "name": "big-fetch",
   "version": "1.0.0",
-  "description": "",
+  "description":
+    "big fetch will return a primose with a abort function and can set a timeout",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "fetch",
-    "promise",
-    "cancel",
-    "abort"
-  ],
+  "keywords": ["fetch", "promise", "cancel", "abort"],
   "author": "Cecilxx",
   "license": "ISC",
   "dependencies": {
