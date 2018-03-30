@@ -1,6 +1,6 @@
 ## Big Fetch
 
-The **big-fetch** is a wrapper based on fetch and promise, adding abort and timeout functions
+The [big-fetch](https://www.npmjs.com/package/big-fetch) is a wrapper based on fetch and promise, adding abort and timeout functions
 
 ### Features
 
