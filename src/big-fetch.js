@@ -5,7 +5,7 @@ if (!window.Promise) {
   window.Promise = Promise
 }
 
-export default function bigFecth(url, options) {
+export default function(url, options = {}) {
   var _abortFn = null
   var _bigFetchPromise = null
 

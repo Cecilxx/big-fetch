@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description":
     "big fetch will return a primose with a abort function and can set a timeout",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cecilxx/big-fetch.git"
   },
   "keywords": ["fetch", "promise", "cancel", "abort"],
   "author": "Cecilxx",
