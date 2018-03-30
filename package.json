@@ -1,0 +1,21 @@
+{
+  "name": "big-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fetch",
+    "promise",
+    "cancel",
+    "abort"
+  ],
+  "author": "Cecilxx",
+  "license": "ISC",
+  "dependencies": {
+    "promise-polyfill": "^7.1.1",
+    "whatwg-fetch": "^2.0.3"
+  }
+}
