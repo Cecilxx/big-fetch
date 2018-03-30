@@ -1,6 +1,6 @@
 {
   "name": "big-fetch",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "description":
     "big fetch will return a primose with a abort function and can set a timeout",
   "main": "src/index.js",
@@ -14,8 +14,5 @@
   "keywords": ["fetch", "promise", "cancel", "abort"],
   "author": "Cecilxx",
   "license": "ISC",
-  "dependencies": {
-    "promise-polyfill": "^7.1.1",
-    "whatwg-fetch": "^2.0.3"
-  }
+  "dependencies": {}
 }

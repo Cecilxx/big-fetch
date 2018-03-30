@@ -1,3 +1,3 @@
-// module.exports = require('./big-fetch')
+import bigFetch from './big-fetch'
 
-export default './big-fecth'
+export default bigFetch
