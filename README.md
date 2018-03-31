@@ -6,7 +6,7 @@ The [big-fetch](https://www.npmjs.com/package/big-fetch) is a wrapper based on f
 
 * [x] **abort()**: Set the current promise to rejected
 * [x] **timeout**: Increase timeout for current request
-
+* [ ] **onprogress**: progress function
 ### Browser Support
 
 The big-fetch is a wrapper based on [fetch](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch) and [promise](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise), If your browser does not support fetch and promise you need to install [whatwg-fetch](https://github.com/github/fetch) and [promise-polyfill](https://github.com/taylorhakes/promise-polyfill)
