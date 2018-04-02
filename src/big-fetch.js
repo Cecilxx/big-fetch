@@ -13,7 +13,7 @@ export default function(url, options = {}) {
         }
       })
       .catch(function(err) {
-        reject('The api request is failed')
+        reject(err)
       })
   })
 
