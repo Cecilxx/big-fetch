@@ -7,9 +7,9 @@ export default function(url, options = {}) {
     fetch(url, options)
       .then(function(response) {
         if (!response.ok) {
-          reject('The api request is failed')
+          reject('The api request is not ok, please check it')
         } else {
-          resolve(data)
+          resolve(response)
         }
       })
       .catch(function(err) {
